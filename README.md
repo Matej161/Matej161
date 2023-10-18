@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matěj Kulíšek</h1>
-<h3 align="center">Baller from Czechia</h3>
+<h3 align="center">Borec from Czechia</h3>
 
 - 🌱 I’m currently learning **creating video games, programming**
 
 - 📫 How to reach me **matej.kulisek16@seznam.cz**
-
-- ⚡ Fun fact **Videogames are a waste of time but i still play them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
