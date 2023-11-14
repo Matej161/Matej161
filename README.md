@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kuldaa</h1>
 <h3 align="center">A insane developer from Czechia</h3>
 
-- 🔭 I’m currently working on **SPSMB Hra**
+- 🔭 I’m currently working on **nic zatim**
 
-- 🌱 I’m currently learning **unreal engine, java, javascript**
+- 🌱 I’m currently learning **unreal engine, java, javascript, blender**
 
 - 📫 How to reach me **matej.kulisek16@seznam.cz**
 
