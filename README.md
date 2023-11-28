@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldaa</h1>
 <h3 align="center">A developer from Czechia</h3>
 
-- 🔭 I’m currently working on **a game**
+- 🔭 I’m currently working on **my programming skills**
 
 - 🌱 I’m currently learning **java, javascript**
 
