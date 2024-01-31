@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my programming skills**
 
-- 🌱 I’m currently learning **java, javascript, C++**
+- 🌱 I’m currently learning **Java, Javascript, C++**
 
 - 📫 How to reach me **matej.kulisek16@seznam.cz**
 
