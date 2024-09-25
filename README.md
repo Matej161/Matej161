@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldaa</h1>
 <h3 align="center">A developer from Czechia</h3>
 
-<iframe src="https://giphy.com/embed/3rYxjO5uI5XKWfekns" width="480" height="394" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-mood-3rYxjO5uI5XKWfekns">via GIPHY</a></p>
+![cat](https://giphy.com/gifs/reaction-mood-3rYxjO5uI5XKWfekns)
 
 - 🔭 I’m currently working on **my programming skills**
 
