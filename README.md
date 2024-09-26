@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my programming skills**
 
-- 🌱 I’m currently learning **C#, Unity, Javascript, React**
+- 🌱 I’m currently learning **C#, Unity, Javascript**
 
 - 📫 How to reach me **matej.kulisek16@seznam.cz**
 
